@@ -40,3 +40,5 @@ export const getFilesFromDirectory = (
     });
   }, paths);
 };
+
+export const dateNow = () => Date.now() / 1000; //Convert to seconds

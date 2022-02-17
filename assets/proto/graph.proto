@@ -27,4 +27,5 @@ message GraphResponse {
 
 service GraphService {
     rpc Register(GraphRequest) returns (GraphResponse) {};
+    rpc RegisterStream(stream GraphRequest) returns (GraphResponse) {};
 }

@@ -3039,10 +3039,10 @@ graceful-fs@^4.1.2, graceful-fs@^4.1.6, graceful-fs@^4.2.0, graceful-fs@^4.2.4, 
   resolved "https://registry.yarnpkg.com/graceful-fs/-/graceful-fs-4.2.9.tgz#041b05df45755e587a24942279b9d113146e1c96"
   integrity sha512-NtNxqUcXgpW2iMrfqSfR73Glt39K+BLwWsPs94yR63v45T0Wbej7eRmL5cWfwEgqXnmjQp3zaJTshdRW/qC2ZQ==
 
-grpc-generate@^1.0.15:
-  version "1.0.15"
-  resolved "https://registry.yarnpkg.com/grpc-generate/-/grpc-generate-1.0.15.tgz#c9d27b0dcd51f3fb51ff61f9d7d0b1eb0beffb18"
-  integrity sha512-i/FcmP3QMbLlVHKRgrKFx6V3UG9fxEN4RpCBmGisPAG97uQ+uOPmWQHAKu7BpVaIizj723+m0LmRGK+sSsX9EQ==
+grpc-generate@^1.1.0:
+  version "1.1.0"
+  resolved "https://registry.yarnpkg.com/grpc-generate/-/grpc-generate-1.1.0.tgz#14e6d8009a2cff116231dc7e212acf18a2d9b853"
+  integrity sha512-WblYAylvBQSlcpIDGs5rtGDJ5FzgooLRFoy6W3tu76YTlmecpS5zHVpNAnHELMm6wnO1kc0GsUSltPi+anwXRw==
   dependencies:
     "@grpc/grpc-js" "^1.5.0"
     "@grpc/proto-loader" "^0.6.9"
